@@ -1,0 +1,6 @@
+{
+  "name": "Spec-Chain",
+  "description": "엔지니어링 사양 분석 및 AI 맞춤형 자기소개서/리포트 검증 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
